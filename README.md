@@ -1,4 +1,4 @@
-# End-to-End Data Pipeline
+# cloud-native-data-platform
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![.NET](https://img.shields.io/badge/.NET_8-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
@@ -576,3 +576,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ---
 
 For questions or feedback, reach out on [GitHub](https://github.com/kabitacodeforge).
+
