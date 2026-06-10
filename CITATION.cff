@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "End-to-End Data Pipeline"
+version: "1.0.0"
+date-released: "2026-06-10"
+type: software
+authors:
+  - family-names: "Mandol"
+    given-names: "Kabita"
+repository-code: "https://github.com/kabitacodeforge/end-to-end-data-pipeline"
+url: "https://github.com/kabitacodeforge/end-to-end-data-pipeline"
+license: "MIT"
+keywords:
+  - Data Science
+  - Data
+  - Data Analytics
+  - Data Pipeline
+  - ETL
